@@ -1,1 +1,2 @@
 echo "Bonjour"
+echo "Bonjour"
